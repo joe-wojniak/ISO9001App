@@ -12,7 +12,7 @@ Requirement 4: Assists in the implementation of a QMS.
 Requirement 5: Assists in the auditing of a QMS by providing a customizable audit checklist and schedule.  
 Requirement 6: May be used to perform internal or external audits.  
 Requirement 7: Facilitates collecting objective evidence and conducting interviews.  
-Requirement 8: Provides a means to provide an audit report to the Auditee.  
+Requirement 8: Provides a means to generate an audit report to the Auditee.  
 Requirement 9: Tracks corrective action status.  
 
 TODO: Write the ISO 9001 eBook  
